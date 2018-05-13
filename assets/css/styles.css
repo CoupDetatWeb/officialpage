@@ -937,7 +937,7 @@ section#demo header h1:after {
 }
 /* Get app Section */
 section#getApp {
-  background: url("assets/img/fondo1.JPG");
+  background: url("../img/fondo1.JPG");
   background-position: center;
 }
 
